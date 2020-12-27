@@ -21,6 +21,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [about](https://mcwertgaming.github.io/about/)
+- [Contact](https://mcwertgaming.github.io/contact/)
+- [Introduction](https://mcwertgaming.github.io/2020/introduction/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
