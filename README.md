@@ -21,6 +21,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [A look behind the scenes](https://mcwertgaming.github.io/2020/a-look-behind-the-scenes/)
 - [about](https://mcwertgaming.github.io/about/)
 - [Contact](https://mcwertgaming.github.io/contact/)
 - [Introduction](https://mcwertgaming.github.io/2020/introduction/)
