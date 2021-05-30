@@ -27,8 +27,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Setting up step-ca with docker on CentOS](https://mcwertgaming.github.io/2021/setting-up-step-ca-with-docker-on-centos/)
 - [A look behind the scenes](https://mcwertgaming.github.io/2020/a-look-behind-the-scenes/)
 - [about](https://mcwertgaming.github.io/about/)
 - [Contact](https://mcwertgaming.github.io/contact/)
-- [Introduction](https://mcwertgaming.github.io/2020/introduction/)
 <!-- BLOG-POST-LIST:END -->
