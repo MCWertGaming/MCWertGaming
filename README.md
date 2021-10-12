@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available [on GitHub](https://github.com/MCWertGaming)
 
-- 📝 I regularly write articles [on my Blog](https://mcwertgaming.github.io/)
+- 📝 I regularly write articles [on my Blog](https://openfoxblog.leven.dev/)
 
 - 💬 Ask me about **C++, CMake, git, GO, game development**
 
