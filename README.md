@@ -27,8 +27,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Setting up step-ca with docker on CentOS](https://mcwertgaming.github.io/2021/setting-up-step-ca-with-docker-on-centos/)
-- [A look behind the scenes](https://mcwertgaming.github.io/2020/a-look-behind-the-scenes/)
-- [about](https://mcwertgaming.github.io/about/)
-- [Contact](https://mcwertgaming.github.io/contact/)
+- [Setting up step-ca with docker on CentOS](https://openfoxblog.leven.dev/2021/setting-up-step-ca-with-docker-on-centos/)
+- [A look behind the scenes](https://openfoxblog.leven.dev/2020/a-look-behind-the-scenes/)
+- [about](https://openfoxblog.leven.dev/about/)
+- [Contact](https://openfoxblog.leven.dev/contact/)
 <!-- BLOG-POST-LIST:END -->
