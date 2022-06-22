@@ -1,34 +1,39 @@
-# Hi 👋, I'm Damon
+```cpp
+#include <iostream>
+#include <string>
 
-[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:dleven@protonmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/staxthefox)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MCWertGaming)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/MCWertGaming/)
-[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/mcwertgaming)
-[![RSS](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://openfoxblog.leven.dev/contact/#rss-feeds)
-
-[![Archlinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org)
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
-[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
-
-![most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=mcwertgaming&show_icons=true&theme=dracula&locale=en&layout=compact)
-
-- 🔭 I’m currently working on [SNEK-ultimate](https://github.com/MCWertGaming/snek-utimate)
-
-- 🌱 I’m currently learning **C++, GO, godot engine**
-
-- 👨‍💻 All of my projects are available [on GitHub](https://github.com/MCWertGaming)
-
-- 📝 I regularly write articles [on my Blog](https://openfoxblog.leven.dev/)
-
-- 💬 Ask me about **C++, CMake, git, GO, game development**
-
-- 📫 How to reach me **dleven@protonmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Setting up step-ca with docker on CentOS](https://openfoxblog.leven.dev/2021/setting-up-step-ca-with-docker-on-centos/)
-- [A look behind the scenes](https://openfoxblog.leven.dev/2020/a-look-behind-the-scenes/)
-- [about](https://openfoxblog.leven.dev/about/)
-- [Contact](https://openfoxblog.leven.dev/contact/)
-<!-- BLOG-POST-LIST:END -->
+namespace Profile {
+    std::string welcome() {
+        return "Welcome to my profile!\n"
+               "I'm Damon and specializing in"
+               "Backend- + Desktop- + Game-development\n";
+    }
+    std::string skills() {
+        return "My skills:\n"
+               // programming languages
+               "C++, GO, C, Java, Javascript, Typescript\n"
+               // Frameworks
+               "GTest, Gin\n"
+               // Markup languages
+               "Markdown, HTML, CSS\n"
+               // DevOps
+               "Docker, Docker-compose, PostgreSQL, Kubernetes, SQl, MongoDB\n";
+    }
+    std::string projects() {
+        return "Projects I work on:"
+               "CPP-Terminal - A TUI library for the modern terminal: https://github.com/jupyter-xeus/cpp-terminal\n"
+               "Snek - A simple snake game for the terminal: https://github.com/BlackVyperStudios/snek\n"
+               "Puroto - Next generation social media for furries: https://puroto.net\n"
+               "MyFursona - A place for animals to live together: https://myfursona.art\n";
+    }
+    std::string social() {
+        return "Find me here:"
+               "Twitter: @staxthefox\n" "Github: @MCWertGaming\n" "Steam: @MCWertGaming\n"
+               "Blog: openfoxblog.leven.dev\n" "Website: damon.leven.dev\n";
+    }
+}
+int main() {
+    std::cout << Profile::welcome() << Profile::skills() << Profile::projects() << Profile::social();
+    return 0;
+}
+```
